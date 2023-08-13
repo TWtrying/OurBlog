@@ -1,0 +1,32 @@
+var data = [
+    {
+        id:"item1",
+        title:"这是第一个",
+        detail:"这是第一个这是第一个",
+        url:"./src/1.jpg"
+    },
+    {
+        id:"item2",
+        title:"这是第二个",
+        detail:"这是第二个这是第二个",
+        url:"./src/2.jpg"
+    },
+    {
+        id:"item3",
+        title:"这是第三个",
+        detail:"这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三个这是第三是第三个",
+        url:"./src/3.jpg"
+    },
+    {
+        id:"item4",
+        title:"这是第四个",
+        detail:"这是第四个这是第四个",
+        url:"./src/4.jpg"
+    },
+    {
+        id:"item5",
+        title:"这是第五个",
+        detail:"这是第五个这是第五个",
+        url:"./src/5.jpg"
+    }
+];
